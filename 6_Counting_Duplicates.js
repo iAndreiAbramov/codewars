@@ -20,7 +20,7 @@ function duplicateCount(text) {
   }).length;
 
   return result;
-};
+}
 
 console.log(duplicateCount(""), 0);
 console.log(duplicateCount("abcde"), 0);
